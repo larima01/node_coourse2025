@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-crash-course-2025",
+  "version": "1.0.0",
+  "description": "NODE CRASH COURSE-2025",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Lukmon Aminu",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
