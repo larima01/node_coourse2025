@@ -5,11 +5,11 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon --env-file=.env server.js"
   },
   "author": "Lukmon Aminu",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "nodemon": "^3.1.9"
   }
 }
